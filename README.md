@@ -1,6 +1,5 @@
 # Portfolio
 
-
 **Name:** Humberto L. Varona Gonzalez
 
 **Education:** `PhD in Oceanography`, `Master in Physics`, `Bachelor in Computer Sciences`, `Bachelor in Physics`
